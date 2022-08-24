@@ -1,0 +1,12 @@
+h1 {
+    COLOR: rgb(232, 16, 5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-weight: bold;
+}
+
+img {
+    max-width: 45%;
+}
