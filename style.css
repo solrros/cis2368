@@ -32,3 +32,21 @@ img {
 #one {
     border: 5px solid black ;
 }
+
+/** HERO SECTION**/
+.hero {
+    height: 80vh;
+    background-image: url("catstakingaselfie.jpg");
+    background-repeat: no-repeat;
+    /** wont repeat a small background to fill the page **/
+    background-size: cover;
+    position: relative;
+}
+
+.intro {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
