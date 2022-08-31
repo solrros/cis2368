@@ -1,5 +1,5 @@
 h1 {
-    COLOR: rgb(232, 16, 5);
+    COLOR: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -9,4 +9,26 @@ p {
 
 img {
     max-width: 45%;
+}
+
+.column {
+    display: inline-block;
+    width: 48%;
+}
+
+.col1 {
+    background-color: yellow;
+}
+
+.col2 {
+    background-color: black;
+}
+
+
+.col1 h1 {
+    color: green;
+}
+
+#one {
+    border: 5px solid black ;
 }
