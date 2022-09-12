@@ -80,3 +80,23 @@ img {
     }
 
 }
+
+.logo {
+    width: 35%;
+    display: block;
+}
+
+.no-list {
+    list-style: none;
+    padding: 0;
+}
+
+.nav-items li {
+    display: inline-block;
+    width: 100px;
+}
+
+.nav-items li:hover{
+    background-color: pink;
+    cursor: pointer;
+}
